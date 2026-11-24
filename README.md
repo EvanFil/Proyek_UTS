@@ -5,8 +5,8 @@
 * **Studi Kasus UTS:** Game RPG Turn-Based "Evomon" (Roblox)
 * **Anggota Kelompok:**
   1. **I Ketut Agus Budi Suryananta** (`2501020051`)
-  2. **[Evan Filbert]** (`[2501020042]`)
-  3. **[Made Putra Sena Nugraha]** (`[2501020054]`)
+  2. **Evan Filbert** (`[2501020042]`)
+  3. **Made Putra Sena Nugraha** (`[2501020054]`)
 
 ---
 
